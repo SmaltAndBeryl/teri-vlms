@@ -1,2 +1,2 @@
 # teri-vlms
-Teri Volunteer management learning management system
+Teri Volunteer Learning Management System
